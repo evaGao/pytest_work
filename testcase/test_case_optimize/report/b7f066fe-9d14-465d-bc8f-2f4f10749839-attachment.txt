@@ -1,0 +1,8 @@
+[2022-07-16 10:49:17,106][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-16 10:49:17,106][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-16 10:49:17,107][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-16 10:49:17,330][api.py 11][INFO]: 接口的返回内容>>>：{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "\u6d59\u6c5f", "city": "\u676d\u5dde", "company": "\u4e2d\u56fd\u79fb\u52a8", "cardtype": null, "areacode": "0571"}}

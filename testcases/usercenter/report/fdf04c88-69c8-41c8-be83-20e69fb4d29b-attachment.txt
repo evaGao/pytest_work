@@ -1,0 +1,7 @@
+[2022-07-16 16:03:02,970][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-07-16 16:03:02,971][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-07-16 16:03:02,972][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 15000000000
+}
+[2022-07-16 16:03:03,097][response_util.py 15][INFO]: 接口的返回内容>>>：{"mobile": "15000000000"}

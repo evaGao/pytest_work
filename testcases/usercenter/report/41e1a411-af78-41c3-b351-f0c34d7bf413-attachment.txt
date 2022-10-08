@@ -1,0 +1,9 @@
+[2022-07-16 18:08:49,708][rest_client.py 45][INFO]: 接口请求的地址>>>http://admin.5istudy.online/shopcarts/
+[2022-07-16 18:08:49,709][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-07-16 18:08:49,709][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "goods": 6,
+  "nums": 1
+}
+[2022-07-16 18:08:49,783][response_util.py 13][INFO]: 接口状态码不是2开头，请检查
+[2022-07-16 18:08:49,784][response_util.py 14][INFO]: 接口的返回内容>>>：{"detail": "身份认证信息未提供。"}

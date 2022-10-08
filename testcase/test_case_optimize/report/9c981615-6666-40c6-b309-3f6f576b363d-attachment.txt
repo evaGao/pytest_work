@@ -1,0 +1,9 @@
+[2022-07-16 10:16:47,842][rest_client.py 45][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-16 10:16:47,843][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2022-07-16 10:16:47,843][rest_client.py 50][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-16 10:16:49,501][api.py 24][INFO]: 接口返回>>>{"title": "foo", "body": "bar", "userId": 1, "id": 101}

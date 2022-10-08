@@ -1,0 +1,373 @@
+[2022-07-15 00:12:35,225][log_util.py 41][DEBUG]: 我打印debug日志
+[2022-07-15 00:12:35,226][log_util.py 42][INFO]: 我打印info日志
+[2022-07-15 00:12:35,226][log_util.py 43][WARNING]: 我打印warning日志
+[2022-07-15 00:12:35,226][log_util.py 44][ERROR]: 我打印error日志
+[2022-07-15 00:17:29,426][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:17:30,747][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:39:18,695][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:39:18,714][rest_client.py 21][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:40:06,942][rest_client.py 22][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:40:06,943][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:40:08,095][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:40:59,934][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:40:59,942][rest_client.py 21][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:40:59,942][rest_client.py 22][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:40:59,942][rest_client.py 24][INFO]: 接口请求的json参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2022-07-15 00:41:01,005][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:42:30,835][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:42:30,842][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:42:30,843][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:42:30,844][rest_client.py 26][INFO]: 接口请求的json参数>>>{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-15 00:42:31,949][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:43:03,754][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:43:03,761][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:43:03,761][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:43:03,762][rest_client.py 26][INFO]: 接口请求的json参数>>>{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+
+[2022-07-15 00:43:04,661][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:43:34,536][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:43:34,548][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:43:34,548][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:43:34,548][rest_client.py 26][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-15 00:43:35,547][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:44:21,428][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:44:21,439][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:44:21,439][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:44:21,439][rest_client.py 26][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-15 00:45:19,276][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:45:19,290][rest_client.py 23][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:45:19,290][rest_client.py 24][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:45:19,290][rest_client.py 26][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-15 00:47:59,178][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:47:59,189][rest_client.py 24][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:47:59,189][rest_client.py 25][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:47:59,190][rest_client.py 27][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-15 00:47:59,190][rest_client.py 29][INFO]: 接口请求的data参数>>>
+null
+[2022-07-15 00:48:00,282][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:52:52,819][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:52:54,096][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:53:18,272][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:53:18,280][rest_client.py 34][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:53:18,281][rest_client.py 35][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:53:43,145][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:54:41,072][test_post.py 8][INFO]: 开始执行test_post方法
+[2022-07-15 00:54:41,088][rest_client.py 34][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2022-07-15 00:54:41,088][rest_client.py 35][INFO]: 接口请求的方法>>>POST
+[2022-07-15 00:54:41,089][rest_client.py 39][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2022-07-15 00:54:42,059][test_post.py 12][INFO]: 用例执行完毕
+[2022-07-15 00:57:32,932][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 00:57:32,933][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 00:57:32,934][rest_client.py 52][INFO]: 接口请求的params参数>>>
+"params"
+[2022-07-15 00:58:31,709][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 00:58:31,710][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 00:58:49,951][rest_client.py 52][INFO]: 接口请求的params参数>>>
+"params"
+[2022-07-15 00:59:00,349][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 00:59:00,349][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 00:59:00,349][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 01:02:27,118][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 01:02:27,119][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 01:02:27,119][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:24:42,265][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:24:42,265][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:24:42,266][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:25:14,517][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:25:14,517][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:25:14,517][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:25:33,966][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:25:33,966][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:25:33,966][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:25:41,482][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:25:41,482][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:25:41,482][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:25:49,204][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:25:49,204][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:25:49,204][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:26:06,024][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:26:06,024][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:26:06,024][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:27:48,238][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:27:48,239][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:27:48,239][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:37:56,159][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:37:56,160][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:37:56,160][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:38:17,972][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:38:17,973][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:38:17,973][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:39:53,743][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:39:53,743][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:39:53,743][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:41:50,742][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:41:50,742][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:41:50,742][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:44:46,025][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:44:46,025][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:44:46,025][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:45:55,553][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:45:55,554][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:45:55,554][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:46:04,131][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:46:04,132][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:46:04,132][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:48:52,309][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:48:52,309][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:48:52,309][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:53:09,621][conftest.py 9][INFO]: 手机号为133
+[2022-07-15 20:53:09,627][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:53:09,627][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:53:09,627][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 20:55:51,101][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 20:55:51,101][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 20:55:51,102][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:01:31,281][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:01:31,282][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:01:31,282][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:05:05,949][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:05:05,949][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:05:05,949][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:07:15,535][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:07:15,535][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:07:15,535][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:07:15,815][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:07:15,815][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:07:15,815][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:08:08,583][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:08:08,583][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:08:08,583][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:08:08,855][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:08:08,856][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:08:08,856][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:31:44,844][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:31:44,844][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:31:44,844][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 21:31:58,149][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 21:31:58,149][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 21:31:58,150][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:08:30,517][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:08:30,518][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:08:30,518][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:14:48,912][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:14:48,912][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:14:48,912][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:15:59,094][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:15:59,095][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:15:59,096][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:29:34,802][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:29:34,803][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:29:34,804][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:34:33,152][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:34:33,152][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:34:33,153][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:34:33,395][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:34:33,395][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:34:33,396][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:36:07,262][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:36:07,262][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:36:07,263][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:36:07,476][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:36:07,476][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:36:07,476][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:40:25,241][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:40:25,242][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:40:25,242][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:40:25,500][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:40:25,500][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:40:25,501][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:48:39,546][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:48:39,546][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:48:39,547][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-07-15 23:48:39,806][rest_client.py 45][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-07-15 23:48:39,806][rest_client.py 46][INFO]: 接口请求的方法>>>GET
+[2022-07-15 23:48:39,806][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}

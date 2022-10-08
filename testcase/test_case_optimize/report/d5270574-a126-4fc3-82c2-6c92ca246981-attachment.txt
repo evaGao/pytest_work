@@ -1,0 +1,7 @@
+INFO     log:rest_client.py:45 接口请求的地址>>>https://api.binstd.com/shouji/query
+INFO     log:rest_client.py:46 接口请求的方法>>>GET
+INFO     log:rest_client.py:52 接口请求的params参数>>>
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
