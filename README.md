@@ -14,10 +14,17 @@
 和加购物车类似 下单后 查数据库 断言
 ### 总结
 Api: 接口请求
+
 Core: api_util和client
+
 Config: setting.ini 放域名 mysql配置等固定内容 量级比较小
+
 Data: data.yaml 测试用例
+
 Log: 日志
+
 Report: 测试报告 allure
+
 Testcases: 测试方法 里面还包含conftest.py（写各个测试方法都要用到的内容，比如查询数据库、读测试用例等操作）
+
 Util: 读日志、读测试数据、数据库操作
